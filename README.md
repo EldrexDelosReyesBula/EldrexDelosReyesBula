@@ -7,11 +7,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EldrexDelosReyesBula&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&color=blue" alt="Profile Views" />
 </p>
