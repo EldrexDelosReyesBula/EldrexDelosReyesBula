@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://eldrex.landecs.org/post/eldrex-logo.svg" width="150" alt="Eldrex Logo"/>
+</p>
 
-<!--
-**EldrexDelosReyesBula/EldrexDelosReyesBula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I’m Eldrex Delos Reyes Bula👋</h1>
+<p align="center">A student learning, exploring, and moving forward in tech and life. Also a writer at <a href="https://eldrex-blog.vercel.app" target="_blank">Eldrex Blog</a>.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EldrexDelosReyesBula&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&color=blue" alt="Profile Views" />
+</p>
+
+---
+
+## 🛠️ What I’m Exploring
+- Web development frameworks
+- UI/UX and creative designs
+- Writing and documenting thoughts & projects
+- Learning new tools & technologies
+
+---
+
+## 📫 Connect with Me
+- Blog: [Eldrex Blog](https://eldrex-blog.vercel.app)
+- Contact.me [Eldrex Contact](https://connect.landecs.org)
+- Portfolio: [Eldrex Portfolio](https://eldrex.landecs.org)
+- Company: [LanDecs](www.landecs.org)
+- GitHub: [Repositories](https://github.com/EldrexDelosReyesBula?tab=repositories)
+
+---
+
+*“When nothing moves, everything begins”*
