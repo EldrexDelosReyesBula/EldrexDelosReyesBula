@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://eldrex.landecs.org/post/eldrex-logo.svg" width="150" alt="Eldrex Logo"/>
+  <img src=[https://eldrex.landecs.org/post/eldrex-logo.svg" width="250" alt="Eldrex Delos Reyes Bula"/>
 </p>
 
 <h1 align="center">Hi, I’m Eldrex Delos Reyes Bula👋</h1>
