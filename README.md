@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7" 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMTEyNGh0dmEyN2Z5dWtrb2g1Mnd3NzdodzV3NmUzdTR3eXZ3bnR6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" 
        width="230" 
        style="border-radius:50%; border:4px solid #ff0557; padding:6px; box-shadow:0px 10px 30px rgba(255,5,87,0.35);" />
 </p>
