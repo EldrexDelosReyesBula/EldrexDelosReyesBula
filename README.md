@@ -52,15 +52,6 @@ Small steps compound into something greater over time.
 
 ---
 
-## <span style="color:#ff0557;"><strong>📊 GitHub Stats</strong></span>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EldrexDelosReyesBula&show_icons=true&theme=transparent&title_color=ff0557&icon_color=ff0557&text_color=ffffff&border_radius=18" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldrexDelosReyesBula&layout=compact&theme=transparent&title_color=ff0557&text_color=ffffff&border_radius=18" height="165"/>
-</p>
-
----
-
 ## <span style="color:#ff0557;"><strong>🤝 Connect With Me</strong></span>
 
 <p align="center">
