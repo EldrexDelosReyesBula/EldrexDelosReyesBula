@@ -1,80 +1,89 @@
-<!-- Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=180&section=header&text=Eldrex%20Delos%20Reyes%20Bula&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<!-- Profile Image with Rounded Style -->
-<p align="center">
-  <img src="https://eldrex.landecs.org/squad/eldrex.png" 
-       width="220" 
-       style="border-radius: 50%; border: 4px solid #3b82f6; padding: 6px; box-shadow: 0px 8px 25px rgba(0,0,0,0.2);" 
-       alt="Eldrex Delos Reyes Bula"/>
-</p>
-
-<h2 align="center">Hi, I’m Eldrex 👋</h2>
-
-<p align="center">
-  A student passionate about building ideas into reality through code, design, and writing.<br>
-  Exploring technology while documenting growth and reflections.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0557,100:ff7a9e&height=190&section=header&text=Eldrex%20Delos%20Reyes%20Bula&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  ✍ Writer at <a href="https://eldrex-blog.vercel.app" target="_blank"><strong>Eldrex Blog</strong></a> <br>
-  🚀 Founder of <a href="https://www.landecs.org" target="_blank"><strong>LanDecs</strong></a> <br>
-  💡 Focused on growth, innovation, and meaningful digital experiences
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       width="230" 
+       style="border-radius:50%; border:4px solid #ff0557; padding:6px; box-shadow:0px 10px 30px rgba(255,5,87,0.35);" />
 </p>
 
----
+<h2 align="center">
+  <span style="color:#ff0557;"><strong>Hi, I’m Eldrex 👋</strong></span>
+</h2>
 
-<!-- Profile Views + Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&color=3b82f6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/EldrexDelosReyesBula?style=for-the-badge&color=9333ea" />
-  <img src="https://img.shields.io/github/stars/EldrexDelosReyesBula?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0ea5e9" />
+  A student building ideas into reality through code, design, and writing.<br>
+  Exploring technology while growing quietly and consistently.
 </p>
 
----
-
-## 🌱 Currently Exploring
-
-✨ Modern Web Development  
-✨ UI/UX Systems & Creative Interfaces  
-✨ Frontend Architectures  
-✨ Performance Optimization  
-✨ Writing technical & reflective articles  
-
----
-
-## 🧠 Philosophy
-
-> “When nothing moves, everything begins.”
-
-I believe growth happens quietly.  
-Every small project, every experiment, every lesson learned builds something bigger in the long run.
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EldrexDelosReyesBula&show_icons=true&theme=tokyonight&border_radius=15" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldrexDelosReyesBula&layout=compact&theme=tokyonight&border_radius=15" height="165"/>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://eldrex-blog.vercel.app">Blog</a> •
-  <a href="https://connect.landecs.org">Contact</a> •
-  <a href="https://eldrex.landecs.org">Portfolio</a> •
-  <a href="https://www.landecs.org">LanDecs</a> •
-  <a href="https://github.com/EldrexDelosReyesBula?tab=repositories">Repositories</a>
+  ✍ Writer at <a href="https://eldrex-blog.vercel.app" target="_blank" style="color:#ff0557;"><strong>Eldrex Blog</strong></a><br>
+  🚀 Founder of <a href="https://www.landecs.org" target="_blank" style="color:#ff0557;"><strong>LanDecs</strong></a><br>
+  🧠 Member of <a href="https://eldrex.landecs.org/socratic" target="_blank" style="color:#ff0557;"><strong>Socratic Squad</strong></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:3b82f6&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&color=ff0557&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/EldrexDelosReyesBula?style=for-the-badge&color=ff0557" />
+  <img src="https://img.shields.io/github/stars/EldrexDelosReyesBula?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ff0557" />
+</p>
+
+---
+
+## <span style="color:#ff0557;"><strong>🌱 Currently Exploring</strong></span>
+
+- Modern Web Architectures  
+- UI/UX Systems & Interaction Design  
+- Creative Frontend Engineering  
+- Performance & Optimization  
+- Writing technical and reflective works  
+
+---
+
+## <span style="color:#ff0557;"><strong>🧠 Philosophy</strong></span>
+
+> <span style="color:#ff0557;"><strong>“When nothing moves, everything begins.”</strong></span>
+
+Growth happens in silence.  
+Small steps compound into something greater over time.
+
+---
+
+## <span style="color:#ff0557;"><strong>📊 GitHub Stats</strong></span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EldrexDelosReyesBula&show_icons=true&theme=transparent&title_color=ff0557&icon_color=ff0557&text_color=ffffff&border_radius=18" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldrexDelosReyesBula&layout=compact&theme=transparent&title_color=ff0557&text_color=ffffff&border_radius=18" height="165"/>
+</p>
+
+---
+
+## <span style="color:#ff0557;"><strong>🤝 Connect With Me</strong></span>
+
+<p align="center">
+  <a href="https://eldrex-blog.vercel.app" style="color:#ff0557;"><strong>Blog</strong></a> •
+  <a href="https://connect.landecs.org" style="color:#ff0557;"><strong>Contact</strong></a> •
+  <a href="https://eldrex.landecs.org" style="color:#ff0557;"><strong>Portfolio</strong></a> •
+  <a href="https://www.landecs.org" style="color:#ff0557;"><strong>LanDecs</strong></a> •
+  <a href="https://eldrex.landecs.org/socratic" style="color:#ff0557;"><strong>Socratic Squad</strong></a>
+</p>
+
+---
+
+## <span style="color:#ff0557;"><strong>☕ Support My Work</strong></span>
+
+<p align="center">
+  If you appreciate my projects and writing, you can support me here:<br><br>
+  <a href="https://ko-fi.com/landecsorg">
+    <img src="https://img.shields.io/badge/Support%20on-Ko--fi-ff0557?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a9e,100:ff0557&height=120&section=footer"/>
 </p>
