@@ -21,10 +21,10 @@ function addStudent(name, course, type, company) {
 
 db.prepare('DELETE FROM students').run();
 
-addStudent("Mark", "BSIS", "Regular", null);
-addStudent("Anna", "BSIT", "Working", "TechCorp");
-addStudent("John", "BSCS", "Regular", null);
-addStudent("Lisa", "BSIT", "Working", "CodeFactory");
+addStudent("Mark Angelo", "BSIS", "Regular", null);
+addStudent("Antoniño", "BSIT", "Working", "Samsung tech");
+addStudent("Joshua", "BSCS", "Regular", null);
+addStudent("Eldrex", "BSIT", "Working", "LanDecs");
 
 const students = db.prepare("SELECT * FROM students").all();
 console.log(students);
