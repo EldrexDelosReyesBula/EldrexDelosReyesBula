@@ -18,8 +18,7 @@
 </p>  
 
 <p align="center">  
-  ✍ Writer at <a href="https://eldrex-blog.vercel.app" target="_blank"><strong>Eldrex Blog</strong></a><br>  
-  🚀 Founder of <a href="https://www.landecs.org" target="_blank"><strong>LanDecs</strong></a><br>  
+  ✍ Writer at <a href="https://eldrex-blog.vercel.app" target="_blank"><strong>Eldrex Blog</strong></a><br>    
   🧠 Member of <a href="https://eldrex.landecs.org/socratic" target="_blank"><strong>Socratic Squad</strong></a>  
 </p>  
 
@@ -48,11 +47,6 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/ff0557/EldrexDelosReyesBula" alt="Eldrex's GitHub Contributions" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EldrexDelosReyesBula&show_icons=true&theme=radical&title_color=ff0557&icon_color=ff0557&text_color=ffffff&bg_color=0d1117" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EldrexDelosReyesBula&theme=radical&ring=ff0557&fire=ff0557&currStreakLabel=ff0557" />
 </p>
