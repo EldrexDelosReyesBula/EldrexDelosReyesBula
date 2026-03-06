@@ -1,5 +1,7 @@
 import React, { useState} from'react';
-import { Mail, Github, Facebook, Instagram, MessageCircle, AtSign, Globe, Terminal, Copy, CheckCircle2, Send} from'lucide-react';
+import { Mail, Github, Facebook, Instagram, MessageCircle, Terminal, Copy, CheckCircle2, Send} from'lucide-react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faThreads, faBluesky } from '@fortawesome/free-brands-svg-icons';
 import { motion} from'motion/react';
 import PageTransition from'../components/PageTransition';
 
@@ -76,8 +78,8 @@ export default function Contact() {
  { name:"GitHub", icon: <Github className="w-6 h-6" />, link:"https://github.com/EldrexDelosReyesBula"},
  { name:"Facebook", icon: <Facebook className="w-6 h-6" />, link:"#"},
  { name:"Instagram", icon: <Instagram className="w-6 h-6" />, link:"#"},
- { name:"Threads", icon: <AtSign className="w-6 h-6" />, link:"#"},
- { name:"Bluesky", icon: <Globe className="w-6 h-6" />, link:"#"},
+ { name:"Threads", icon: <FontAwesomeIcon icon={faThreads} className="w-6 h-6" />, link:"#"},
+ { name:"Bluesky", icon: <FontAwesomeIcon icon={faBluesky} className="w-6 h-6" />, link:"#"},
  { name:"NGL", icon: <MessageCircle className="w-6 h-6" />, link:"#"}
 ];
 
