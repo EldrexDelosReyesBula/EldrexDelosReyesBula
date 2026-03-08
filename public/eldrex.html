@@ -7,14 +7,14 @@
 
 <title>Eldrex Delos Reyes Bula | Founder of LanDecs</title>
 
-<meta name="description" content="Eldrex Delos Reyes Bula is a Filipino student, founder of LanDecs, designer and developer studying Information Systems at Navotas Polytechnic College.">
+<meta name="description" content="Eldrex Delos Reyes Bula is a Filipino student, founder of LanDecs, designer, developer, and multi-role worker at Hunter Electronic Marketing. Studying Information Systems at Navotas Polytechnic College.">
 <meta name="robots" content="index, follow">
 <meta name="author" content="Eldrex Delos Reyes Bula">
 
 <link rel="canonical" href="https://eldrex.landecs.org/about">
 
 <meta property="og:title" content="Eldrex Delos Reyes Bula">
-<meta property="og:description" content="Founder of LanDecs, student of BSIS at Navotas Polytechnic College, designer and developer.">
+<meta property="og:description" content="Founder of LanDecs, student of BSIS at Navotas Polytechnic College, designer, developer, and multitasking employee at Hunter Electronic Marketing.">
 <meta property="og:type" content="profile">
 
 <style>
@@ -151,28 +151,23 @@ width:140px;
  },
  "nationality":"Filipino",
  "knowsLanguage":["Waray-Waray","Tagalog","English"],
- "alumniOf":{
-  "@type":"EducationalOrganization",
-  "name":"Dolores National High School"
- },
+ "alumniOf":[
+  {"@type":"EducationalOrganization","name":"Dolores National High School"},
+  {"@type":"EducationalOrganization","name":"Navotas Polytechnic College"}
+ ],
  "memberOf":[
   {"@type":"Organization","name":"LanDecs"},
   {"@type":"Organization","name":"Information and Computing Society (ICS)"}
  ],
- "jobTitle":[
-  "Founder",
-  "Designer",
-  "Developer",
-  "Vice President"
+ "jobTitle":["Founder","Designer","Developer","Vice President","Multitasking Employee"],
+ "worksFor":[
+  {"@type":"Organization","name":"LanDecs","url":"https://www.landecs.org"},
+  {"@type":"Organization","name":"Hunter Electronic Marketing","url":""}
  ],
- "worksFor":{
-  "@type":"Organization",
-  "name":"LanDecs",
-  "url":"https://www.landecs.org"
- },
  "url":"https://eldrex.landecs.org",
  "sameAs":[
   "https://ebula.landecs.org",
+  "https://eldrex-landecs.org",
   "https://eldrex-blog.vercel.app",
   "https://connect.landecs.org",
   "https://www.landecs.org"
@@ -189,7 +184,7 @@ width:140px;
 <header>
 <img src="https://eldrex.landecs.org/squad/eldrex.png" alt="Eldrex Delos Reyes Bula">
 <h1>Who is Eldrex Delos Reyes Bula?</h1>
-<p>Founder of LanDecs • Designer • Developer • BSIS Student</p>
+<p>Founder of LanDecs • Designer • Developer • BSIS Student • Multitasking Employee</p>
 </header>
 
 <section class="reveal">
@@ -203,14 +198,21 @@ width:140px;
 </section>
 
 <section class="reveal">
-<h2>Education</h2>
-<p><strong>Junior & Senior High School</strong><br>
-Dolores National High School<br>
-Dolores, Eastern Samar, Philippines</p>
+<h2>Education Timeline</h2>
+<ul>
+<li>Dolores National High School (Junior & Senior High) — until 2025</li>
+<li>Navotas Polytechnic College (BSIS) — 2025 to Present</li>
+</ul>
+</section>
 
-<p><strong>College</strong><br>
-Bachelor of Science in Information Systems (BSIS)<br>
-Navotas Polytechnic College</p>
+<section class="reveal">
+<h2>Work Experience</h2>
+<p><strong>Hunter Electronic Marketing</strong> — Multitasking Employee (2022 – Present)</p>
+<ul>
+<li>Roles: Cashier, Sales Boy, Manpower, Inventory, Cleaner, Supervision, and more</li>
+<li>Worked both in-house and in the shop</li>
+<li>Over 3 years of trusted service</li>
+</ul>
 </section>
 
 <section class="reveal">
@@ -261,6 +263,8 @@ UI and UX design, branding, and digital platform creation.
 Eldrex Delos Reyes Bula is a Filipino founder, student, designer, and
 technology enthusiast. While studying Information Systems, he continues
 to build digital platforms and creative projects through his brand LanDecs.
+He is also a trusted multitasking employee at Hunter Electronic Marketing,
+handling multiple roles for over 3 years.
 </p>
 </section>
 
@@ -271,29 +275,19 @@ to build digital platforms and creative projects through his brand LanDecs.
 </div>
 
 <script>
-
-/* scroll animation */
-
+/* Scroll reveal animation */
 function reveal(){
-
 let reveals = document.querySelectorAll(".reveal");
-
 for(let i=0;i<reveals.length;i++){
-
 let windowHeight = window.innerHeight;
 let elementTop = reveals[i].getBoundingClientRect().top;
 let visible = 120;
-
 if(elementTop < windowHeight - visible){
 reveals[i].classList.add("active");
 }
-
 }
-
 }
-
 window.addEventListener("scroll", reveal);
-
 </script>
 
 </body>
