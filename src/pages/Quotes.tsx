@@ -68,7 +68,11 @@ const quotesData = [
  { id: 62, text:"Sometimes the best breakthroughs come after the longest nights of thinking.", author:"Eldrex Delos Reyes Bula"},
  { id: 63, text:"The only thing that makes you feel not good enough is not knowing who you truly are.", author:"Eldrex Delos Reyes Bula"},
  { id: 64, text:"People keep their limitations private, not because they are weak, but because they are afraid others will use those limits against them.", author:"Eldrex Delos Reyes Bula"},
- { id: 64, text:"When the world gives you nothing, you have the most room to build everything.", author:"Eldrex Delos Reyes Bula"}
+ { id: 64, text:"When the world gives you nothing, you have the most room to build everything.", author:"Eldrex Delos Reyes Bula"},
+ { id: 65, text:"Sometimes the reward is not the win itself, but the person you became while chasing it.", author:"Eldrex Delos Reyes Bula"},
+{ id: 66, text:"Winning something you once dreamed of can feel empty when your dreams have already moved to the next horizon.", author:"Eldrex Delos Reyes Bula"},
+{ id: 67, text:"Sometimes we are disappointed by the things we wished for, not because they lack value, but because we have already grown beyond them.", author:"Eldrex Delos Reyes Bula"}
+
 ];
 
 export default function Quotes() {
