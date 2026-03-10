@@ -3,7 +3,7 @@
 </p>  
 
 <p align="center">  
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMTEyNGh0dmEyN2Z5dWtrb2g1Mnd3NzdodzV3NmUzdTR3eXZ3bnR6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"   
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260310T130012Z&X-Amz-Expires=300&X-Amz-Signature=35ace0f9fd979a338a7897b54e661858cfe5e3f2559df8243cbe531886d211f6&X-Amz-SignedHeaders=host"   
        width="230"   
        style="border-radius:50%; border:4px solid #ff0557; padding:6px; box-shadow:0px 10px 30px rgba(255,5,87,0.35);" />  
 </p>  
