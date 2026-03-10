@@ -1,10 +1,8 @@
 import React, { useEffect, useState} from'react';
 import { motion, useMotionValue, useSpring} from'motion/react';
-import { useSettings} from'../contexts/SettingsContext';
 
 export default function Cursor() {
  const [isHovering, setIsHovering] = useState(false);
- const { theme} = useSettings();
 
  const cursorX = useMotionValue(-100);
  const cursorY = useMotionValue(-100);
@@ -60,7 +58,7 @@ export default function Cursor() {
 }}
  animate={{
  scale: isHovering ? 2.5 : 1,
- backgroundColor: isHovering ?'#ff0557' : (theme ==='dark' ?'#ffffff' :'#111111'),
+ backgroundColor: isHovering ?'#ff0557' :'#111111',
 }}
  transition={{ duration: 0.15}}
  />

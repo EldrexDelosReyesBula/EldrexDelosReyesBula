@@ -1,13 +1,12 @@
 import React, { useState, useEffect} from'react';
 import { Menu, X} from'lucide-react';
 import { Link, useLocation} from'react-router-dom';
-import { useSettings} from'../contexts/SettingsContext';
+import { motion} from'motion/react';
 
 export default function Navbar() {
  const [isScrolled, setIsScrolled] = useState(false);
  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
  const location = useLocation();
- const { t} = useSettings();
 
  useEffect(() => {
  const handleScroll = () => {
@@ -29,11 +28,29 @@ export default function Navbar() {
  return (
  <>
  <nav className={`fixed w-full border-b-4 border-black px-6 py-4 flex items-center justify-between z-50 top-0 transition-colors duration-300 ${isScrolled ?'bg-white/95 /95 backdrop-blur-sm shadow-[0_4px_0_0_#111111]' :'bg-white'}`}>
- <Link to="/" className="flex items-center gap-4 hover-target">
+ <Link to="/" className="flex items-center gap-4 hover-target group">
+ <div className="relative w-12 h-12 [perspective:1000px]">
+ <motion.div 
+ className="relative w-full h-full transition-all duration-500 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]"
+ >
+ {/* Front: Logo Dots */}
+ <div className="absolute inset-0 [backface-visibility:hidden] flex items-center justify-center">
  <div className="flex gap-1.5">
- <div className="w-4 h-4 rounded-full border-2 border-black bg-[#ff6b6b]"></div>
- <div className="w-4 h-4 rounded-full border-2 border-black bg-[#ffb703]"></div>
- <div className="w-4 h-4 rounded-full border-2 border-black bg-[#00e5ff]"></div>
+ <div className="w-3 h-3 rounded-full border-2 border-black bg-[#ff6b6b]"></div>
+ <div className="w-3 h-3 rounded-full border-2 border-black bg-[#ffb703]"></div>
+ <div className="w-3 h-3 rounded-full border-2 border-black bg-[#00e5ff]"></div>
+ </div>
+ </div>
+ {/* Back: Profile Pic */}
+ <div className="absolute inset-0 [backface-visibility:hidden] [transform:rotateY(180deg)] flex items-center justify-center">
+ <img 
+ src="https://eldrex.landecs.org/squad/eldrex-hero.svg" 
+ alt="Eldrex" 
+ className="w-10 h-10 rounded-full border-2 border-black object-cover bg-white"
+ referrerPolicy="no-referrer"
+ />
+ </div>
+ </motion.div>
  </div>
  <span className="font-black text-2xl tracking-tighter text-black">EDB.</span>
  </Link>
@@ -46,7 +63,7 @@ export default function Navbar() {
  to={link.path} 
  className={`hover:text-[#ff0557] hover:underline decoration-4 underline-offset-8 transition-all hover-target ${location.pathname === link.path ?'text-[#ff0557] underline' :'text-black'}`}
  >
- {t(`nav.${link.name.toLowerCase()}`)}
+ {link.name}
  </Link>
  ))}
  </div>
@@ -70,7 +87,7 @@ export default function Navbar() {
  onClick={() => setMobileMenuOpen(false)} 
  className={`hover:text-[#ff0557] hover:underline decoration-4 underline-offset-8 transition-all hover-target ${location.pathname === link.path ?'text-[#ff0557] underline' :'text-black'}`}
  >
- {t(`nav.${link.name.toLowerCase()}`)}
+ {link.name}
  </Link>
  ))}
  </div>

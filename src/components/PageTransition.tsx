@@ -7,7 +7,7 @@ export default function PageTransition({ children}: { children: React.ReactNode}
  initial={{ opacity: 0, y: 20}}
  animate={{ opacity: 1, y: 0}}
  exit={{ opacity: 0, y: -20}}
- transition={{ duration: 0.5, ease:"easeOut"}}
+ transition={{ type:"spring", stiffness: 100, damping: 20}}
  className="w-full"
  >
  {children}
