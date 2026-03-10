@@ -56,7 +56,7 @@ export default function School() {
  </div>
  <h2 className="text-3xl font-black mb-2 text-black">Integrated Computer Society</h2>
  <div className="inline-block border-2 border-black bg-[#00e5ff] px-3 py-1 font-bold font-mono text-sm mb-4 transform -rotate-2 text-black">
- Committee Member
+ Vice President
  </div>
  <p className="font-body text-lg text-gray-700">The official student organization for computer studies. A community of passionate tech enthusiasts and future innovators.</p>
  </motion.div>

@@ -5,11 +5,9 @@ import { motion} from'motion/react';
 import PageTransition from'../components/PageTransition';
 import WindowCard from'../components/WindowCard';
 import { BLOG_POSTS} from'../data';
-import { useSettings} from'../contexts/SettingsContext';
 
 export default function Home() {
  const [randomPosts, setRandomPosts] = useState<typeof BLOG_POSTS>([]);
- const { t} = useSettings();
 
  // Shuffle and select 3 random blog posts on every refresh
  useEffect(() => {
@@ -31,17 +29,17 @@ export default function Home() {
  transition={{ duration: 0.6, delay: 0.2}}
  >
  <h1 className="text-6xl md:text-8xl font-black leading-[0.9] mb-6 tracking-tight text-black">
- {t('home.hello')}<br />{t('home.iam')}
+ Hello.<br />I'm Eldrex.
  </h1>
  <p className="text-xl font-medium mb-8 max-w-md leading-relaxed font-body text-gray-700">
- {t('home.subtitle')}
+ Creative Developer / UI Designer / Founder building modern retro experiences.
  </p>
  <div className="flex flex-wrap gap-4">
  <Link to="/projects" className="border-4 border-black px-8 py-3 font-bold shadow-[6px_6px_0px_0px_#111111] hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-[4px_4px_0px_0px_#111111] :shadow-[4px_4px_0px_0px_#ffffff] transition-all bg-[#ff0557] text-white text-lg hover-target">
- {t('home.viewProjects')}
+ View Projects
  </Link>
  <Link to="/contact" className="border-4 border-black px-8 py-3 font-bold shadow-[6px_6px_0px_0px_#ff0557] hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-[4px_4px_0px_0px_#ff0557] transition-all bg-white text-black text-lg hover-target">
- {t('home.contactMe')}
+ Contact Me
  </Link>
  </div>
  </motion.div>
@@ -84,14 +82,14 @@ export default function Home() {
  whileInView={{ opacity: 1, y: 0}}
  viewport={{ once: true}}
  >
- <h2 className="text-5xl md:text-6xl font-black tracking-tight text-black">{t('home.services')}</h2>
+ <h2 className="text-5xl md:text-6xl font-black tracking-tight text-black">Services</h2>
  <div className="h-2 flex-grow bg-[#ff0557] border-y-2 border-black"></div>
  </motion.div>
  <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
  {[
- { title: t('home.service1.title'), icon: <Layout className="w-10 h-10 mb-4 text-[#ff0557]" />},
- { title: t('home.service2.title'), icon: <Code className="w-10 h-10 mb-4 text-[#00e5ff]" />},
- { title: t('home.service3.title'), icon: <Smartphone className="w-10 h-10 mb-4 text-[#ffb703]" />}
+ { title: 'UI/UX Design', icon: <Layout className="w-10 h-10 mb-4 text-[#ff0557]" />},
+ { title: 'Web Development', icon: <Code className="w-10 h-10 mb-4 text-[#00e5ff]" />},
+ { title: 'App Design', icon: <Smartphone className="w-10 h-10 mb-4 text-[#ffb703]" />}
 ].map((service, i) => (
  <motion.div 
  key={i} 
@@ -103,7 +101,7 @@ export default function Home() {
  >
  <div className="group-hover:text-white transition-colors">{service.icon}</div>
  <h3 className="text-2xl font-bold mb-2 text-black group-hover:text-white">{service.title}</h3>
- <p className="font-body text-gray-600 group-hover:text-white/90">{t('home.service.desc')}</p>
+ <p className="font-body text-gray-600 group-hover:text-white/90">Crafting pixel-perfect, responsive, and engaging digital experiences.</p>
  </motion.div>
  ))}
  </div>
@@ -118,67 +116,36 @@ export default function Home() {
  whileInView={{ opacity: 1, y: 0}}
  viewport={{ once: true}}
  >
- <h2 className="text-5xl md:text-6xl font-black tracking-tight text-black">{t('home.fromBlog')}</h2>
- <a href="https://eldrex-blog.vercel.app/" target="_blank" rel="noopener noreferrer" className="font-bold text-lg underline decoration-4 decoration-[#ff0557] hover:bg-[#ff0557] hover:text-white transition-colors pb-1 hover-target text-black">{t('home.viewAllBlog')}</a>
+ <h2 className="text-5xl md:text-6xl font-black tracking-tight text-black">From the blog</h2>
+ <a href="https://eldrex-blog.vercel.app/" target="_blank" rel="noopener noreferrer" className="font-bold text-lg underline decoration-4 decoration-[#ff0557] hover:bg-[#ff0557] hover:text-white transition-colors pb-1 hover-target text-black">View all blog posts</a>
  </motion.div>
  
- <div className="relative h-[1000px] md:h-[800px] max-w-4xl mx-auto">
- {randomPosts[0] && (
+ <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+ {randomPosts.map((post, index) => (
  <motion.div 
- className="absolute top-0 left-0 w-full md:w-3/4 z-10 hover:z-40 transition-transform duration-300 hover:-translate-y-4"
+ key={post.id}
+ className="w-full"
  initial={{ opacity: 0, y: 50}}
  whileInView={{ opacity: 1, y: 0}}
- viewport={{ once: true}}
+ viewport={{ once: true, margin: "-100px"}}
+ transition={{ 
+ type:"spring", 
+ stiffness: 100, 
+ damping: 15,
+ delay: index * 0.2
+}}
  >
  <WindowCard 
- title={randomPosts[0].title}
- date={randomPosts[0].date}
- image={randomPosts[0].image}
- description={randomPosts[0].excerpt}
- linkText={t('home.readPost')}
- linkUrl={`https://eldrex-blog.vercel.app/?post=${randomPosts[0].id}`}
- className="h-[400px]"
+ title={post.title}
+ date={post.date}
+ image={post.image}
+ description={post.excerpt}
+ linkText="Read Post"
+ linkUrl={`https://eldrex-blog.vercel.app/?post=${post.id}`}
+ className="h-full"
  />
  </motion.div>
- )}
- {randomPosts[1] && (
- <motion.div 
- className="absolute top-[250px] md:top-[150px] right-0 w-full md:w-3/4 z-20 hover:z-40 transition-transform duration-300 hover:-translate-y-4"
- initial={{ opacity: 0, y: 50}}
- whileInView={{ opacity: 1, y: 0}}
- viewport={{ once: true}}
- transition={{ delay: 0.2}}
- >
- <WindowCard 
- title={randomPosts[1].title}
- date={randomPosts[1].date}
- image={randomPosts[1].image}
- description={randomPosts[1].excerpt}
- linkText={t('home.readPost')}
- linkUrl={`https://eldrex-blog.vercel.app/?post=${randomPosts[1].id}`}
- className="h-[400px]"
- />
- </motion.div>
- )}
- {randomPosts[2] && (
- <motion.div 
- className="absolute top-[500px] md:top-[350px] left-0 md:left-[10%] w-full md:w-3/4 z-30 hover:z-40 transition-transform duration-300 hover:-translate-y-4"
- initial={{ opacity: 0, y: 50}}
- whileInView={{ opacity: 1, y: 0}}
- viewport={{ once: true}}
- transition={{ delay: 0.4}}
- >
- <WindowCard 
- title={randomPosts[2].title}
- date={randomPosts[2].date}
- image={randomPosts[2].image}
- description={randomPosts[2].excerpt}
- linkText={t('home.readPost')}
- linkUrl={`https://eldrex-blog.vercel.app/?post=${randomPosts[2].id}`}
- className="h-[400px]"
- />
- </motion.div>
- )}
+ ))}
  </div>
  </section>
 
@@ -186,12 +153,12 @@ export default function Home() {
  <section className="py-24 px-6 bg-[#ffb703] border-y-4 border-black relative z-10">
  <div className="absolute inset-0 bg-grain opacity-30 pointer-events-none"></div>
  <div className="max-w-4xl mx-auto text-center relative z-10">
- <h2 className="text-4xl md:text-6xl font-black mb-8 tracking-tight text-black">{t('home.trouble')}</h2>
+ <h2 className="text-4xl md:text-6xl font-black mb-8 tracking-tight text-black">Having trouble reaching me?</h2>
  <p className="text-xl font-bold mb-10 font-body leading-relaxed text-black/80">
- {t('home.troubleDesc')}
+ Sometimes social media platforms filter messages or hide them in requests. If you have an urgent inquiry, a project proposal, or just want to ensure your message lands straight in my inbox, use my direct contact form or official emails.
  </p>
  <Link to="/contact" className="inline-block border-4 border-black bg-white px-8 py-4 font-black text-xl shadow-[8px_8px_0px_0px_#111111] hover:shadow-[12px_12px_0px_0px_#111111] hover:-translate-y-1 transition-all hover:bg-[#ff0557] hover:text-white hover-target text-black">
- {t('home.goContact')}
+ Go to Contact Options
  </Link>
  </div>
  </section>
