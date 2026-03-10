@@ -14,42 +14,51 @@ export default function Copyright() {
  <h1 className="text-5xl md:text-7xl font-black tracking-tight mb-6 text-black">Copyright Notice</h1>
  <div className="h-2 w-32 bg-[#ff0557] border-y-2 border-black mb-12"></div>
 
- <div className="prose prose-lg font-body text-gray-800 space-y-6">
- {/* General Copyright Statement */}
- <p className="text-xl font-bold text-black">
- © {new Date().getFullYear()} Eldrex Delos Reyes Bula. All rights reserved. 
- This website and all content contained herein are protected under international copyright laws. Unauthorized use, reproduction, or distribution of any materials without explicit written permission is strictly prohibited.
- </p>
+  <div className="prose prose-lg font-body text-gray-800 space-y-6">
+    {/* General Copyright Statement */}
+    <p className="text-xl font-bold text-black">
+      © {new Date().getFullYear()} Eldrex Delos Reyes Bula. All rights reserved. 
+    </p>
+    <p>
+      This website and all content contained herein—including but not limited to text, images, graphics, logos, illustrations, audio files, video clips, downloadable content, data compilations, and software—are protected under international copyright, trademark, and other intellectual property laws. Unauthorized use, reproduction, or distribution of any materials without explicit written permission is strictly prohibited and may result in severe civil and criminal penalties.
+    </p>
 
- {/* Content Ownership Section */}
- <h2 className="text-2xl font-bold font-sans mt-8 mb-4 text-black">1. Content Ownership</h2>
- <p>
- All materials displayed on this website—including but not limited to text, images, graphics, logos, illustrations, audio files, video clips, downloadable content, data compilations, and software—are the exclusive property of Eldrex Delos Reyes Bula or its licensed content providers. 
- These materials are protected by both national and international copyright and intellectual property laws, ensuring that the original creators retain full ownership rights. Any unauthorized use may result in legal action.
- </p>
+    {/* Content Ownership Section */}
+    <h2 className="text-2xl font-bold font-sans mt-8 mb-4 text-black">1. Ownership of Intellectual Property</h2>
+    <p>
+      The intellectual property rights in the Site and the materials on the Site (including without limitation the text, computer code, artwork, photographs, images, music, audio material, video material and audio-visual material on the Site) are owned by Eldrex Delos Reyes Bula and its licensors. 
+    </p>
+    <p>
+      Eldrex Delos Reyes Bula does not grant you any other rights in relation to this website or the material on this website. In other words, all other rights are reserved. For the avoidance of doubt, you must not adapt, edit, change, transform, publish, republish, distribute, redistribute, broadcast, rebroadcast or show or play in public this website or the material on this website (in any form or media) without Eldrex Delos Reyes Bula's prior written permission.
+    </p>
 
- {/* Design Inspiration Attribution */}
- <h2 className="text-2xl font-bold font-sans mt-8 mb-4 text-black">2. Design Inspiration Attribution</h2>
- <p>
- Special acknowledgment and copyright attribution are given to <strong className="text-black">Mackenzie Child</strong> for providing free design template inspirations. 
- Their resources contributed to the overall visual identity, style, and layout of this portfolio, serving as creative guidance without transferring ownership.
- </p>
+    {/* Design Inspiration Attribution */}
+    <h2 className="text-2xl font-bold font-sans mt-8 mb-4 text-black">2. Design Attribution & Creative Credits</h2>
+    <p>
+      Special acknowledgment and copyright attribution are given to <strong className="text-black">Mackenzie Child</strong> for providing free design template inspirations that served as a foundation for the visual identity of this portfolio. 
+    </p>
+    <p>
+      While the implementation, specific code, and personalized content are original works of Eldrex Delos Reyes Bula, we recognize the creative influence and structural guidance provided by these open resources. This attribution is made in the spirit of transparency and respect for the design community.
+    </p>
 
- {/* Permitted Use Section */}
- <h2 className="text-2xl font-bold font-sans mt-8 mb-4 text-black">3. Permitted Use of Materials</h2>
- <p>
- Visitors to this website may use the content for limited, personal purposes only. Any reproduction, distribution, modification, derivative creation, public display, or commercial exploitation is strictly prohibited without prior written consent, except for the following specific cases:
- </p>
- <ul className="list-disc pl-6 space-y-2">
- <li>Temporary storage of website content in your computer's RAM while browsing, which is necessary for proper viewing and interaction with the site.</li>
- <li>Automatic caching by web browsers to enhance display performance. This is incidental and does not grant ownership rights.</li>
- <li>Printing or downloading a reasonable number of pages for personal, non-commercial use only. These copies cannot be shared, redistributed, or republished in any form.</li>
- </ul>
+    {/* Data Mining Section */}
+    <h2 className="text-2xl font-bold font-sans mt-8 mb-4 text-black">3. Data Mining & Automated Access</h2>
+    <p>
+      The automated and/or systematic collection of data from this website is prohibited. You may not use any "robot," "spider," or other automatic device, program, algorithm or methodology, or any similar or equivalent manual process, to access, acquire, copy or monitor any portion of the Site or any Content, or in any way reproduce or circumvent the navigational structure or presentation of the Site or any Content.
+    </p>
 
- <p>
- Any other use, including reproduction, distribution, or commercial exploitation, requires explicit written permission from the copyright holder. Compliance ensures respect for intellectual property and the continued availability of creative resources for all.
- </p>
- </div>
+    {/* Permissions Section */}
+    <h2 className="text-2xl font-bold font-sans mt-8 mb-4 text-black">4. Permissions & Licensing Inquiries</h2>
+    <p>
+      You may request permission to use the copyright materials on this website by writing to us via the Contact page. Any granted permissions will be provided in writing and may be subject to specific conditions or licensing fees depending on the nature of the request.
+    </p>
+
+    {/* Enforcement Section */}
+    <h2 className="text-2xl font-bold font-sans mt-8 mb-4 text-black">5. Enforcement of Copyright</h2>
+    <p>
+      Eldrex Delos Reyes Bula takes the protection of its copyright very seriously. If Eldrex Delos Reyes Bula discovers that you have used its copyright materials in contravention of the license above, Eldrex Delos Reyes Bula may bring legal proceedings against you seeking monetary damages and an injunction to stop you using those materials. You could also be ordered to pay legal costs.
+    </p>
+  </div>
  </motion.div>
  </section>
  </PageTransition>
