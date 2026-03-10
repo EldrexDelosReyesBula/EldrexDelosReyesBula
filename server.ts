@@ -1,7 +1,6 @@
 import express from 'express';
 import { createServer as createViteServer } from 'vite';
 import cors from 'cors';
-import Mailjet from 'node-mailjet';
 
 async function startServer() {
   const app = express();
@@ -11,56 +10,8 @@ async function startServer() {
   app.use(express.json());
 
   // API routes FIRST
-  app.post('/api/contact', async (req, res) => {
-    const { name, email, message } = req.body;
-
-    if (!name || !email || !message) {
-      return res.status(400).json({ error: 'Name, email, and message are required.' });
-    }
-
-    const mailjetApiKey = process.env.MAILJET_API_KEY;
-    const mailjetApiSecret = process.env.MAILJET_API_SECRET;
-
-    if (!mailjetApiKey || !mailjetApiSecret) {
-      console.warn('Mailjet credentials not found. Simulating email send.');
-      // Simulate success for development if keys are missing
-      return res.status(200).json({ success: true, simulated: true });
-    }
-
-    try {
-      const mailjet = new Mailjet({
-        apiKey: mailjetApiKey,
-        apiSecret: mailjetApiSecret
-      });
-
-      const request = mailjet
-        .post('send', { version: 'v3.1' })
-        .request({
-          Messages: [
-            {
-              From: {
-                Email: "ebula251056@navotaspolytechniccollege.edu.ph", // Replace with verified sender email
-                Name: "Portfolio Contact Form"
-              },
-              To: [
-                {
-                  Email: "ebula251056@navotaspolytechniccollege.edu.ph", // Replace with your receiving email
-                  Name: "Eldrex"
-                }
-              ],
-              Subject: `New Contact Form Submission from ${name}`,
-              TextPart: `Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`,
-              HTMLPart: `<h3>New Contact Form Submission</h3><p><strong>Name:</strong> ${name}</p><p><strong>Email:</strong> ${email}</p><p><strong>Message:</strong><br/>${message}</p>`
-            }
-          ]
-        });
-
-      await request;
-      res.status(200).json({ success: true });
-    } catch (error) {
-      console.error('Mailjet error:', error);
-      res.status(500).json({ error: 'Failed to send email.' });
-    }
+  app.get("/api/health", (req, res) => {
+    res.json({ status: "ok" });
   });
 
   // Vite middleware for development
