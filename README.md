@@ -67,9 +67,9 @@ Small steps compound into something greater over time.
 <p align="center">  
   <a href="https://eldrex-blog.vercel.app"><strong>Blog</strong></a> •  
   <a href="https://connect.landecs.org"><strong>Contact</strong></a> •  
-  <a href="https://eldrex.landecs.org"><strong>Portfolio</strong></a> •  
+  <a href="https://ebula.landecs.org"><strong>Portfolio</strong></a> •  
   <a href="https://www.landecs.org"><strong>LanDecs</strong></a> •  
-  <a href="https://eldrex.landecs.org/socratic"><strong>Socratic Squad</strong></a>  
+  <a href="https://ebula.landecs.org/#/socratic-squad"><strong>Socratic Squad</strong></a>  
 </p>  
 
 ---
