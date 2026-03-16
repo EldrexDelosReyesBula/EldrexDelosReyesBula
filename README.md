@@ -18,7 +18,7 @@
 </p>  
 
 <p align="center">  
-  ✍ Writer at <a href="https://eldrex-blog.vercel.app" target="_blank"><strong>Eldrex Blog</strong></a><br>    
+  ✍ Writer at <a href="https://eblog.landecs.org/" target="_blank"><strong>Eldrex eBlog</strong></a><br>    
   🧠 Member of <a href="https://eldrex.landecs.org/socratic" target="_blank"><strong>Socratic Squad</strong></a>  
 </p>  
 
@@ -65,7 +65,7 @@ Small steps compound into something greater over time.
 ## 🤝 Connect With Me  
 
 <p align="center">  
-  <a href="https://eldrex-blog.vercel.app"><strong>Blog</strong></a> •  
+  <a href="https://eblog.landecs.org/"><strong>eBlog</strong></a> •  
   <a href="https://connect.landecs.org"><strong>Contact</strong></a> •  
   <a href="https://ebula.landecs.org"><strong>Portfolio</strong></a> •  
   <a href="https://www.landecs.org"><strong>LanDecs</strong></a> •  
