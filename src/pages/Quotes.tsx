@@ -69,7 +69,10 @@ const quotesData = [
  { id: 63, text:"The only thing that makes you feel not good enough is not knowing who you truly are.", author:"Eldrex Delos Reyes Bula"},
  { id: 64, text:"People keep their limitations private, not because they are weak, but because they are afraid others will use those limits against them.", author:"Eldrex Delos Reyes Bula"},
  { id: 65, text:"When the world gives you nothing, you have the most room to build everything.", author:"Eldrex Delos Reyes Bula"},
- { id: 66, text:"All of us do not know what to do unless we start doing it.", author:"Eldrex Delos Reyes Bula"}
+ { id: 66, text:"All of us do not know what to do unless we start doing it.", author:"Eldrex Delos Reyes Bula"},
+ { id: 67, text:"A person who understands how great things happen will always give what is right for others to have.", author:"Eldrex Delos Reyes Bula"},
+ { id: 68, text:"If you choose to believe what others believe, it may guide you for a long time, until you realize it isn’t all true.", author:"Eldrex Delos Reyes Bula"},
+ { id: 69, text:"A man who has experienced the same situations as those around him is a great person to ask for advice.", author:"Eldrex Delos Reyes Bula"}
 ];
 
 export default function Quotes() {
