@@ -21,11 +21,11 @@ export default function Contact() {
 
  const socials = [
  { name:"GitHub", icon: <Github className="w-6 h-6" />, link:"https://github.com/EldrexDelosReyesBula"},
- { name:"Facebook", icon: <Facebook className="w-6 h-6" />, link:"#"},
- { name:"Instagram", icon: <Instagram className="w-6 h-6" />, link:"#"},
- { name:"Threads", icon: <FontAwesomeIcon icon={faThreads} className="w-6 h-6" />, link:"#"},
+ { name:"Facebook", icon: <Facebook className="w-6 h-6" />, link:"https://www.facebook.com/eldrex.landecs.org"},
+ { name:"Instagram", icon: <Instagram className="w-6 h-6" />, link:"https://www.instagram.com/landecs_ld"},
+ { name:"Threads", icon: <FontAwesomeIcon icon={faThreads} className="w-6 h-6" />, link:"https://www.threads.com/@landecs_ld"},
  { name:"Bluesky", icon: <FontAwesomeIcon icon={faBluesky} className="w-6 h-6" />, link:"#"},
- { name:"NGL", icon: <MessageCircle className="w-6 h-6" />, link:"#"}
+ { name:"NGL", icon: <MessageCircle className="w-6 h-6" />, link:"https://ngl.link/eldrex.me"}
 ];
 
  return (
