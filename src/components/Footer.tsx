@@ -14,7 +14,7 @@ export default function Footer() {
  <div className="grid grid-cols-1 md:grid-cols-4 border-4 border-white bg-[#1e1e1e] shadow-[8px_8px_0px_0px_#ff0557]">
  {['Blog','Projects','About','Contact'].map((link, i) => (
  link ==='Blog' ? (
- <a key={link} href="https://eldrex-blog.vercel.app/" target="_blank" rel="noopener noreferrer" className={`flex justify-between items-center p-5 font-bold hover:bg-[#ff0557] hover:text-white transition-colors hover-target ${i !== 3 ?'border-b-4 md:border-b-0 md:border-r-4 border-white' :''}`}>
+ <a key={link} href="https://eblog.landecs.org/" target="_blank" rel="noopener noreferrer" className={`flex justify-between items-center p-5 font-bold hover:bg-[#ff0557] hover:text-white transition-colors hover-target ${i !== 3 ?'border-b-4 md:border-b-0 md:border-r-4 border-white' :''}`}>
  <span className="text-lg">{link}</span>
  <ArrowUpRight className="w-6 h-6" strokeWidth={2.5} />
  </a>
