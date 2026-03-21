@@ -28,12 +28,12 @@ export default function Home() {
  animate={{ opacity: 1, x: 0}}
  transition={{ duration: 0.6, delay: 0.2}}
  >
- <h1 className="text-6xl md:text-8xl font-black leading-[0.9] mb-6 tracking-tight text-black">
- Hello.<br />I'm Eldrex.
- </h1>
- <p className="text-xl font-medium mb-8 max-w-md leading-relaxed font-body text-gray-700">
- Creative Developer / UI Designer / Founder building modern retro experiences.
- </p>
+ <h1 class="text-6xl md:text-8xl font-black leading-[0.9] mb-6 tracking-tight text-black">
+Hi, I'm Eldrex.
+</h1>
+<p class="text-xl font-medium mb-8 max-w-md leading-relaxed font-body text-gray-700">
+Student exploring web development, modern frameworks, and creative digital solutions.
+</p>
  <div className="flex flex-wrap gap-4">
  <Link to="/projects" className="border-4 border-black px-8 py-3 font-bold shadow-[6px_6px_0px_0px_#111111] hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-[4px_4px_0px_0px_#111111] :shadow-[4px_4px_0px_0px_#ffffff] transition-all bg-[#ff0557] text-white text-lg hover-target">
  View Projects
