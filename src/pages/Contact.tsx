@@ -24,7 +24,7 @@ export default function Contact() {
  { name:"Facebook", icon: <Facebook className="w-6 h-6" />, link:"https://www.facebook.com/eldrex.landecs.org"},
  { name:"Instagram", icon: <Instagram className="w-6 h-6" />, link:"https://www.instagram.com/landecs_ld"},
  { name:"Threads", icon: <FontAwesomeIcon icon={faThreads} className="w-6 h-6" />, link:"https://www.threads.com/@landecs_ld"},
- { name:"Bluesky", icon: <FontAwesomeIcon icon={faBluesky} className="w-6 h-6" />, link:"#"},
+ { name:"Bluesky", icon: <FontAwesomeIcon icon={faBluesky} className="w-6 h-6" />, link:"https://bsky.app/profile/eldrex.bsky.social"},
  { name:"NGL", icon: <MessageCircle className="w-6 h-6" />, link:"https://ngl.link/eldrex.me"}
 ];
 
