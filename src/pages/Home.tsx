@@ -158,7 +158,7 @@ Student exploring web development, modern frameworks, and creative digital solut
  Sometimes social media platforms filter messages or hide them in requests. If you have an urgent inquiry, a project proposal, or just want to ensure your message lands straight in my inbox, use my direct contact form or official emails.
  </p>
  <Link to="/contact" className="inline-block border-4 border-black bg-white px-8 py-4 font-black text-xl shadow-[8px_8px_0px_0px_#111111] hover:shadow-[12px_12px_0px_0px_#111111] hover:-translate-y-1 transition-all hover:bg-[#ff0557] hover:text-white hover-target text-black">
- Go to Contact Options
+ Go to Contact
  </Link>
  </div>
  </section>
