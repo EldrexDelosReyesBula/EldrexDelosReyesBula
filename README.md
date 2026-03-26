@@ -22,7 +22,7 @@
   🧠 Member of <a href="https://eldrex.landecs.org/socratic" target="_blank"><strong>Socratic Squad</strong></a>  
 </p>  
 
----  
+---
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&color=ff0557&style=for-the-badge" />  
@@ -39,6 +39,14 @@
 - Creative Frontend Engineering  
 - Performance & Optimization  
 - Writing technical and reflective works  
+
+---
+
+## 💻 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldrexDelosReyesBula&layout=compact&theme=radical&hide=html,css" alt="Most Used Languages" />
+</p>
 
 ---
 
@@ -64,13 +72,27 @@ Small steps compound into something greater over time.
 
 ## 🤝 Connect With Me  
 
-<p align="center">  
-  <a href="https://eblog.landecs.org/"><strong>eBlog</strong></a> •  
-  <a href="https://connect.landecs.org"><strong>Contact</strong></a> •  
-  <a href="https://ebula.landecs.org"><strong>Portfolio</strong></a> •  
-  <a href="https://www.landecs.org"><strong>LanDecs</strong></a> •  
-  <a href="https://ebula.landecs.org/#/socratic-squad"><strong>Socratic Squad</strong></a>  
-</p>  
+<p align="center">
+  <a href="https://eblog.landecs.org/">
+    <img src="https://img.icons8.com/ios-filled/50/ff0557/blog.png" width="40" title="eBlog"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://connect.landecs.org">
+    <img src="https://img.icons8.com/ios-filled/50/ff0557/contacts.png" width="40" title="Contact"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ebula.landecs.org">
+    <img src="https://img.icons8.com/ios-filled/50/ff0557/computer.png" width="40" title="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.landecs.org">
+    <img src="https://img.icons8.com/ios-filled/50/ff0557/domain.png" width="40" title="LanDecs"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ebula.landecs.org/#/socratic-squad">
+    <img src="https://img.icons8.com/ios-filled/50/ff0557/groups.png" width="40" title="Socratic Squad"/>
+  </a>
+</p>
 
 ---
 
@@ -83,7 +105,7 @@ Small steps compound into something greater over time.
   </a>  
 </p>  
 
----  
+---
 
 <p align="center">  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a9e,100:ff0557&height=120&section=footer"/>  
