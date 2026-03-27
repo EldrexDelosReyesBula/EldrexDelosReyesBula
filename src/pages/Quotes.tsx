@@ -72,7 +72,8 @@ const quotesData = [
  { id: 66, text:"All of us do not know what to do unless we start doing it.", author:"Eldrex Delos Reyes Bula"},
  { id: 67, text:"A person who understands how great things happen will always give what is right for others to have.", author:"Eldrex Delos Reyes Bula"},
  { id: 68, text:"If you choose to believe what others believe, it may guide you for a long time, until you realize it isn’t all true.", author:"Eldrex Delos Reyes Bula"},
- { id: 69, text:"A man who has experienced the same situations as those around him is a great person to ask for advice.", author:"Eldrex Delos Reyes Bula"}
+ { id: 69, text:"A man who has experienced the same situations as those around him is a great person to ask for advice.", author:"Eldrex Delos Reyes Bula"},
+{ id: 70, text:"Be still to find your path, but don't just sit there once you know the way.", author:"Eldrex Delos Reyes Bula"}
 ];
 
 export default function Quotes() {
