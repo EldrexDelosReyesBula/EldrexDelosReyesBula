@@ -1,8 +1,4 @@
 <p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=190&section=header&text=Eldrex%20Delos%20Reyes%20Bula&fontSize=35&fontColor=ffffff&animation=fadeIn" />  
-</p>  
-
-<p align="center">  
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"   
        width="230"   
        style="border-radius:50%; border:4px solid #000000; padding:6px; box-shadow:0px 10px 30px rgba(0,0,0,0.25);" />  
@@ -42,14 +38,6 @@
 
 ---
 
-## 💻 Most Used Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldrexDelosReyesBula&layout=compact&theme=dark&hide=html,css&bg_color=000000&title_color=ffffff&text_color=cccccc" alt="Most Used Languages" />
-</p>
-
----
-
 ## 📊 GitHub Contributions  
 
 <p align="center">
@@ -70,32 +58,6 @@ Small steps compound into something greater over time.
 
 ---
 
-## 🤝 Connect With Me  
-
-<p align="center">
-  <a href="https://eblog.landecs.org/">
-    <img src="https://img.icons8.com/ios-filled/50/currentColor/blog.png" width="40" title="eBlog"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://connect.landecs.org">
-    <img src="https://img.icons8.com/ios-filled/50/currentColor/contacts.png" width="40" title="Contact"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ebula.landecs.org">
-    <img src="https://img.icons8.com/ios-filled/50/currentColor/computer.png" width="40" title="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.landecs.org">
-    <img src="https://img.icons8.com/ios-filled/50/currentColor/domain.png" width="40" title="LanDecs"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ebula.landecs.org/#/socratic-squad">
-    <img src="https://img.icons8.com/ios-filled/50/currentColor/groups.png" width="40" title="Socratic Squad"/>
-  </a>
-</p>
-
----
-
 ## ☕ Support My Work  
 
 <p align="center">  
@@ -108,5 +70,5 @@ Small steps compound into something greater over time.
 ---
 
 <p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120&section=footer"/>  
+  <img src="https://eldrex.landecs.org/logo/eldrex_bula_final_logo.png"/>  
 </p>
