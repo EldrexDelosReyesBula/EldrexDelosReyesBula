@@ -70,5 +70,5 @@ Small steps compound into something greater over time.
 ---
 
 <p align="center">  
-  <img src="https://eldrex.landecs.org/logo/eldrex_bula_final_logo.png"/>  
+  <img src="https://eldrex.landecs.org/logo/eldrex_bula_final_logo.svg"/>  
 </p>
