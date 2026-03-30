@@ -71,10 +71,10 @@ Small steps compound into something greater over time.
 
 <p align="center">
   <a href="https://eldrex.landecs.org" target="_blank">
-    <img src="https://eldrex.landecs.org/logo/eldrex_bula_final_logo.png" 
+    <img src="https://eldrex.landecs.org/logo/eldrex_bula_final_logo.svg" 
          width="80" 
          height="80" 
-         style="border-radius:50%; object-fit:cover;" 
-         alt="Eldrex Logo"/>
+         style="background: white; border-radius:50%; object-fit:cover;" 
+         alt="Eldrex Bula Logo"/>
   </a>
 </p>
