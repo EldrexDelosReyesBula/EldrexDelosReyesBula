@@ -1,15 +1,15 @@
 <p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0557,100:ff7a9e&height=190&section=header&text=Eldrex%20Delos%20Reyes%20Bula&fontSize=35&fontColor=ffffff&animation=fadeIn" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=190&section=header&text=Eldrex%20Delos%20Reyes%20Bula&fontSize=35&fontColor=ffffff&animation=fadeIn" />  
 </p>  
 
 <p align="center">  
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260310T130012Z&X-Amz-Expires=300&X-Amz-Signature=35ace0f9fd979a338a7897b54e661858cfe5e3f2559df8243cbe531886d211f6&X-Amz-SignedHeaders=host"   
        width="230"   
-       style="border-radius:50%; border:4px solid #ff0557; padding:6px; box-shadow:0px 10px 30px rgba(255,5,87,0.35);" />  
+       style="border-radius:50%; border:4px solid #000000; padding:6px; box-shadow:0px 10px 30px rgba(0,0,0,0.35);" />  
 </p>  
 
 <h2 align="center">  
-  <span style="color:#ff0557;"><strong>Hi, I’m Eldrex 👋</strong></span>  
+  <span style="color:#000000;"><strong>Hi, I’m Eldrex 👋</strong></span>  
 </h2>  
 
 <p align="center">  
@@ -25,9 +25,9 @@
 ---
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&color=ff0557&style=for-the-badge" />  
-  <img src="https://img.shields.io/github/followers/EldrexDelosReyesBula?style=for-the-badge&color=ff0557" />  
-  <img src="https://img.shields.io/github/stars/EldrexDelosReyesBula?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ff0557" />  
+  <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&color=000000&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/EldrexDelosReyesBula?style=for-the-badge&color=000000" />
+  <img src="https://img.shields.io/github/stars/EldrexDelosReyesBula?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=000000" />
 </p>  
 
 ---
@@ -45,7 +45,7 @@
 ## 💻 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldrexDelosReyesBula&layout=compact&theme=radical&hide=html,css" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldrexDelosReyesBula&layout=compact&theme=dark&hide=html,css" alt="Most Used Languages" />
 </p>
 
 ---
@@ -53,10 +53,10 @@
 ## 📊 GitHub Contributions  
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ff0557/EldrexDelosReyesBula" alt="Eldrex's GitHub Contributions" />
+  <img src="https://ghchart.rshah.org/000000/EldrexDelosReyesBula" alt="Eldrex's GitHub Contributions" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EldrexDelosReyesBula&theme=radical&ring=ff0557&fire=ff0557&currStreakLabel=ff0557" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EldrexDelosReyesBula&theme=dark&ring=000000&fire=000000&currStreakLabel=000000" />
 </p>
 
 ---
@@ -74,23 +74,23 @@ Small steps compound into something greater over time.
 
 <p align="center">
   <a href="https://eblog.landecs.org/">
-    <img src="https://img.icons8.com/ios-filled/50/ff0557/blog.png" width="40" title="eBlog"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/blog.png" width="40" title="eBlog"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://connect.landecs.org">
-    <img src="https://img.icons8.com/ios-filled/50/ff0557/contacts.png" width="40" title="Contact"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/contacts.png" width="40" title="Contact"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://ebula.landecs.org">
-    <img src="https://img.icons8.com/ios-filled/50/ff0557/computer.png" width="40" title="Portfolio"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/computer.png" width="40" title="Portfolio"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.landecs.org">
-    <img src="https://img.icons8.com/ios-filled/50/ff0557/domain.png" width="40" title="LanDecs"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40" title="LanDecs"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://ebula.landecs.org/#/socratic-squad">
-    <img src="https://img.icons8.com/ios-filled/50/ff0557/groups.png" width="40" title="Socratic Squad"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/groups.png" width="40" title="Socratic Squad"/>
   </a>
 </p>
 
@@ -101,12 +101,12 @@ Small steps compound into something greater over time.
 <p align="center">  
   If you appreciate my projects and writing, you can support me here:<br><br>  
   <a href="https://ko-fi.com/landecsorg">  
-    <img src="https://img.shields.io/badge/Support%20on-Ko--fi-ff0557?style=for-the-badge&logo=ko-fi&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Support%20on-Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=ffffff"/>  
   </a>  
 </p>  
 
 ---
 
 <p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a9e,100:ff0557&height=120&section=footer"/>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=120&section=footer"/>  
 </p>
