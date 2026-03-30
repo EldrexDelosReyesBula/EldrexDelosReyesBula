@@ -73,7 +73,9 @@ const quotesData = [
  { id: 67, text:"A person who understands how great things happen will always give what is right for others to have.", author:"Eldrex Delos Reyes Bula"},
  { id: 68, text:"If you choose to believe what others believe, it may guide you for a long time, until you realize it isn’t all true.", author:"Eldrex Delos Reyes Bula"},
  { id: 69, text:"A man who has experienced the same situations as those around him is a great person to ask for advice.", author:"Eldrex Delos Reyes Bula"},
-{ id: 70, text:"Be still to find your path, but don't just sit there once you know the way.", author:"Eldrex Delos Reyes Bula"}
+{ id: 70, text:"Be still to find your path, but don't just sit there once you know the way.", author:"Eldrex Delos Reyes Bula"},
+{ id: 71, text:"Identity is not in what is held, but in how one endures what is lost.", author:"Eldrex Delos Reyes Bula"},
+{ id: 72, text:"Loss is feared not for what is gone, but for what it says about who remains.", author:"Eldrex Delos Reyes Bula"}
 ];
 
 export default function Quotes() {
