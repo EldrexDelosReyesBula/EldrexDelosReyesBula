@@ -1,11 +1,11 @@
 <p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Eldrex%20Delos%20Reyes%20Bula&fontSize=35&fontColor=currentColor&animation=fadeIn" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=190&section=header&text=Eldrex%20Delos%20Reyes%20Bula&fontSize=35&fontColor=ffffff&animation=fadeIn" />  
 </p>  
 
 <p align="center">  
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"   
        width="230"   
-       style="border-radius:50%; border:4px solid currentColor; padding:6px; box-shadow:0px 10px 30px rgba(0,0,0,0.15);" />  
+       style="border-radius:50%; border:4px solid #000000; padding:6px; box-shadow:0px 10px 30px rgba(0,0,0,0.25);" />  
 </p>  
 
 <h2 align="center">  
@@ -25,9 +25,9 @@
 ---
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&style=for-the-badge&color=black" />
-  <img src="https://img.shields.io/github/followers/EldrexDelosReyesBula?style=for-the-badge&color=black" />
-  <img src="https://img.shields.io/github/stars/EldrexDelosReyesBula?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=black" />
+  <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&style=for-the-badge&color=000000" />
+  <img src="https://img.shields.io/github/followers/EldrexDelosReyesBula?style=for-the-badge&color=000000" />
+  <img src="https://img.shields.io/github/stars/EldrexDelosReyesBula?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=000000" />
 </p>  
 
 ---
@@ -45,7 +45,7 @@
 ## 💻 Most Used Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldrexDelosReyesBula&layout=compact&theme=github_dark&hide=html,css" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldrexDelosReyesBula&layout=compact&theme=dark&hide=html,css&bg_color=000000&title_color=ffffff&text_color=cccccc" alt="Most Used Languages" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
   <img src="https://ghchart.rshah.org/000000/EldrexDelosReyesBula" alt="Eldrex's GitHub Contributions" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EldrexDelosReyesBula&theme=github_dark&ring=000000&fire=000000&currStreakLabel=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EldrexDelosReyesBula&theme=dark&ring=ffffff&fire=cccccc&currStreakLabel=ffffff" />
 </p>
 
 ---
@@ -101,12 +101,12 @@ Small steps compound into something greater over time.
 <p align="center">  
   If you appreciate my projects and writing, you can support me here:<br><br>  
   <a href="https://ko-fi.com/landecsorg">  
-    <img src="https://img.shields.io/badge/Support%20on-Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=currentColor"/>  
+    <img src="https://img.shields.io/badge/Support%20on-Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=ffffff"/>  
   </a>  
 </p>  
 
 ---
 
 <p align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:transparent,100:transparent"/>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120&section=footer"/>  
 </p>
