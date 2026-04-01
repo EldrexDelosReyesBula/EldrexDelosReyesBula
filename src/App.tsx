@@ -2,7 +2,6 @@ import React from'react';
 import { HashRouter as Router, Routes, Route, useLocation} from'react-router-dom';
 import { AnimatePresence, motion} from'motion/react';
 import { Analytics} from"@vercel/analytics/react";
-import Cursor from'./components/Cursor';
 import Navbar from'./components/Navbar';
 import Footer from'./components/Footer';
 import Home from'./pages/Home';
@@ -50,9 +49,7 @@ function AppContent() {
  
  return (
  <Router>
- <div className="min-h-screen bg-paper text-[#111111] font-sans selection:bg-[#ff0557] selection:text-white relative overflow-hidden transition-colors duration-300">
- <div className="fixed inset-0 bg-grain pointer-events-none z-0 opacity-40"></div>
- <Cursor />
+ <div className="min-h-screen bg-paper text-ink font-body selection:bg-ink selection:text-paper relative overflow-hidden transition-colors duration-300">
  <Navbar />
  <main className="relative z-10 min-h-screen flex flex-col pt-20">
  <AnimatedRoutes />
