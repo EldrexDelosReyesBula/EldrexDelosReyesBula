@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ebula.landecs.org/sitemap.xml
+Sitemap: https://ais-pre-kn346o667ygiqqyir7dikl-61155525043.asia-east1.run.app/sitemap.xml
