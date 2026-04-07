@@ -67,11 +67,27 @@ const quotesData = [
   { id: 61, text:"I have ideas, but how will they come to life if I never try? So, I'll try to try.", author:"Eldrex Delos Reyes Bula"},
   { id: 62, text:"Sometimes the best breakthroughs come after the longest nights of thinking.", author:"Eldrex Delos Reyes Bula"},
   { id: 63, text:"The only thing that makes you feel not good enough is not knowing who you truly are.", author:"Eldrex Delos Reyes Bula"},
-  { id: 64, text:"People keep their limitations private, not because they are weak, but because they are afraid others will use those limits against them.", author:"Eldrex Delos Reyes Bula"}
+  { id: 64, text:"People keep their limitations private, not because they are weak, but because they are afraid others will use those limits against them.", author:"Eldrex Delos Reyes Bula"},
+{ id: 65, text:"Don't fear the 'Destruction' of your old life; it's just clearing the ground for your new Empire.", author:"Eldrex Delos Reyes Bula"},
+{ id: 66, text:"The stars only appear when the sun steps aside. Your time to shine is coming.", author:"Eldrex Delos Reyes Bula"},
+{ id: 67, text:"Blood makes you kin, but loyalty makes you family. If a bridge only leads to your destruction, you are allowed to burn it.", author:"Eldrex Delos Reyes Bula"},
+{ id: 68, text:"Predict the betrayal, but prepare the victory.", author:"Eldrex Delos Reyes Bula"},
+{ id: 69, text:"Even the darkest stone has a core that cannot be broken. It is not the darkness that defines you, but how you command the light to surround it.", author:"Eldrex Delos Reyes Bula"},
+{ id: 70, text:"A crown is not a gift; it is a weight. A true queen does not rule over a kingdom, she serves the life within it.", author:"Eldrex Delos Reyes Bula"},
+{ id: 71, text:"The moon does not compete with the sun for the sky; it waits for the darkness to show its true brilliance.", author:"Eldrex Delos Reyes Bula"},
+{ id: 72, text:"A puppet only remains a puppet until it realizes it can cut its own strings.", author:"Eldrex Delos Reyes Bula"},
+{ id: 73, text:"Don't be the servant of a prophecy; be the creator of a legacy.", author:"Eldrex Delos Reyes Bula"},
+{ id: 75, text:"If you wait, then you die without a grave", author:"Eldrex Delos Reyes Bula"},
+{ id: 76, text:"I don’t need what you have to do what you do.", author:"Eldrex Delos Reyes Bula"},
+{ id: 77, text:"To ignore is to be trapped. To hold is to be abandoned. To grasp both is to surrender all.", author:"Eldrex Delos Reyes Bula"},
+{ id: 78, text:"You remain where you stand, not because you can’t move, but because you don’t.", author:"Eldrex Delos Reyes Bula"},
+{ id: 79, text:"Misunderstanding may be the lesson — even when we don’t understand why.", author:"Eldrex Delos Reyes Bula"},
+{ id: 80, text:"True judgment begins only after you’ve walked the path others have taken.", author:"Eldrex Delos Reyes Bula"},
+{ id: 81, text:"Sometimes we have to feel what we resist, just to truly understand it.", author:"Eldrex Delos Reyes Bula"},
 ];
 
 export default function Quotes() {
-  const [searchTerm, setSearchTerm] = useState('');
+  const [searchTerm, setSearchTerm] = useState(''); 
 
   const filteredQuotes = quotesData.filter(quote => 
     quote.text.toLowerCase().includes(searchTerm.toLowerCase()) ||
