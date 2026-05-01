@@ -57,10 +57,27 @@ Small steps compound into something greater over time.
 
 <p align="center">  
   If you appreciate my projects and writing, you can support me here:<br><br>  
+
   <a href="https://ko-fi.com/landecsorg">  
     <img src="https://img.shields.io/badge/Support%20on-Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=ffffff"/>  
   </a>  
+
+  <br><br>
+
+  <a href="https://www.paypal.com/paypalme/eldrexbula">  
+    <img src="https://img.shields.io/badge/PayPal-Donate-000000?style=for-the-badge&logo=paypal&logoColor=ffffff"/>  
+  </a>  
 </p>  
+
+---
+
+## 🎓 Education / School Projects  
+
+<p align="center">
+  <a href="https://github.com/ebula-edu">
+    <img src="https://img.shields.io/badge/ebula--edu-GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
+</p>
 
 ---
 
@@ -73,3 +90,4 @@ Small steps compound into something greater over time.
          alt="Eldrex Bula Logo"/>
   </a>
 </p>
+
