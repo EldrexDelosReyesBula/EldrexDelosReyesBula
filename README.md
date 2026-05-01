@@ -13,11 +13,6 @@
   Exploring technology while growing quietly and consistently.  
 </p>  
 
-<p align="center">  
-  ✍ Writer at <a href="https://eblog.landecs.org/" target="_blank"><strong>Eldrex eBlog</strong></a><br>    
-  🧠 Member of <a href="https://eldrex.landecs.org/socratic" target="_blank"><strong>Socratic Squad</strong></a>  
-</p>  
-
 ---
 
 <p align="center">  
