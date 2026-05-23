@@ -65,7 +65,7 @@ Small steps compound into something greater over time.
   <br><br>
 
   <a href="https://www.paypal.com/paypalme/eldrexbula">  
-    <img src="https://img.shields.io/badge/PayPal-Donate-000000?style=for-the-badge&logo=paypal&logoColor=ffffff"/>  
+    <img src="https://img.shields.io/badge/PayPal-Support-000000?style=for-the-badge&logo=paypal&logoColor=ffffff"/>  
   </a>  
 </p>  
 
