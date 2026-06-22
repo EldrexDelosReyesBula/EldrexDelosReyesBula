@@ -33,7 +33,7 @@
 <h2 style="color:#ffffff;">🚀 About Me</h2>
 
 **Name         :** Eldrex D. Bula <br>
-**Role         :** Full-Stack Developer <br>
+**Role         :** Student Developer <br>
 **Education    :** Associate in Information Systems <br>
 **Organization :** Vice President @ ICS Organization <br>
 **Location     :** Caloocan City, Philippines <br>
