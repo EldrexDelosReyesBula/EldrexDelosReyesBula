@@ -107,7 +107,7 @@
     <td width="140" style="border:1px solid #333; padding:15px;"><img src="https://eldrex.landecs.org/logo/lantrack-logo.svg" width="120" style="filter: grayscale(100%);"></td>
     <td style="border:1px solid #333; padding:15px;">
       <h3 style="color:#fff;">LanTrack</h3>
-      <p style="color:#aaa;">QR-powered attendance, monitoring, and tracking platform designed for schools and organizations.</p>
+      <p style="color:#aaa;">Automated attendance, monitoring, and tracking platform designed for students and schools</p>
       <p><strong>Highlights</strong><br>Internships • OJT • Automation • Analytics Dashboard • Modern UI</p>
       <p><strong>Stack:</strong> <code style="color:#fff;">Kotlin</code> <code style="color:#fff;">Android Studio</code> <code style="color:#fff;">Material You 3</code></p>
     </td>
