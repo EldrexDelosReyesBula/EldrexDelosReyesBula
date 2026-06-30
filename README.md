@@ -39,52 +39,6 @@
 <br>
 <hr style="border: 1px solid #333;">
 
-<!-- FEATURED PROJECTS -->
-<h2 style="color:#ffffff;">Featured Projects</h2>
-
-<table align="center" style="background:#000; border-collapse:collapse; width:90%; color:#fff;">
-  <tr>
-    <td width="140" style="border:1px solid #333; padding:15px;">
-      <img src="https://eldrex.landecs.org/logo/papyrus-js-logo.png" width="120">
-    </td>
-    <td style="border:1px solid #333; padding:15px;">
-      <h3 style="color:#fff;">PapyrusJS Ecosystem</h3>
-      <p style="color:#aaa;">A privacy-first reactive JavaScript application platform designed for modern web development, featuring a complete ecosystem of officially maintained packages for UI, databases, authentication, AI, SSR, SEO, charts, gaming, and immersive experiences.</p>
-      <p><strong>Core Packages</strong><br>@eldrex/papyr • @eldrex/papyr-router • @eldrex/papyr-db • @eldrex/papyr-auth • @eldrex/papyr-ssr</p>
-      <p><strong>Developer Ecosystem</strong><br>@eldrex/papyr-seo • @eldrex/papyr-charts • @eldrex/papyr-animate • @eldrex/papyr-shapes</p>
-      <p><strong>Advanced Platforms</strong><br>@eldrex/papyr-ai • @eldrex/papyr-3d • @eldrex/papyr-game • @eldrex/papyr-watt • @eldrex/papyr-pssr</p>
-      <p><strong>Highlights</strong><br>14 Published Packages • Zero Dependencies • Reactive Architecture • Direct DOM Updates • SSR Ready • AI Integration • Authentication • SEO Toolkit • Game SDK • 3D Graphics • Privacy First</p>
-      <p><strong>Stack:</strong> <code style="color:#fff;">JavaScript</code> <code style="color:#fff;">TypeScript</code> <code style="color:#fff;">Frontend Framework</code> <code style="color:#fff;">SSR</code> <code style="color:#fff;">AI SDK</code> <code style="color:#fff;">Database</code> <code style="color:#fff;">Authentication</code> <code style="color:#fff;">Developer Tools</code></p>
-      <p><strong>NPM:</strong> 14 Official Packages Published<br><strong>DOCS:</strong> <a href="https://papyrus-js.vercel.app/" style="color:#fff;">PapyrusJS</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="140" style="border:1px solid #333; padding:15px;">
-      <img src="https://eldrex.landecs.org/logo/lantrack-logo.svg" width="120" style="filter: grayscale(100%);">
-    </td>
-    <td style="border:1px solid #333; padding:15px;">
-      <h3 style="color:#fff;">LanTrack</h3>
-      <p style="color:#aaa;">Automated attendance, monitoring, and tracking platform designed for students and schools</p>
-      <p><strong>Highlights</strong><br>Internships • OJT • Automation • Analytics Dashboard • Modern UI</p>
-      <p><strong>Stack:</strong> <code style="color:#fff;">Kotlin</code> <code style="color:#fff;">Android Studio</code> <code style="color:#fff;">Material You 3</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="140" style="border:1px solid #333; padding:15px;">
-      <img src="https://eldrex.landecs.org/logo/lanq-studio-logo.png" width="120" style="filter: grayscale(100%);">
-    </td>
-    <td style="border:1px solid #333; padding:15px;">
-      <h3 style="color:#fff;">LanQ</h3>
-      <p style="color:#aaa;">Professional QR generation platform focused on customization, branding, and user experience.</p>
-      <p><strong>Highlights</strong><br>Dynamic QR Codes • Beautiful Templates • Brand Customization • Export Tools • Auto-Blend</p>
-      <p><strong>Stack:</strong> <code style="color:#fff;">TypeScript</code> <code style="color:#fff;">React</code> <code style="color:#fff;">Node.js</code></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-<hr style="border: 1px solid #333;">
-
 <!-- EXPLORING -->
 <h2 style="color:#ffffff;">Currently Exploring</h2>
 
