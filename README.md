@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://eldrex.landecs.org"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="https://ebula.neocities.org"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="https://medium.com/@eldrexdelosreyesbula"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://github.com/ebula-edu"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -141,7 +141,7 @@
 <h2 style="color:#ffffff;">Contact</h2>
 <p align="left" style="color:#ccc;">
   <strong>Email</strong>    : eldrexdelosreyesbula@gmail.com<br>
-  <strong>Website</strong>  : <a href="https://eldrex.landecs.org" style="color:#fff;">https://eldrex.landecs.org</a><br>
+  <strong>Website</strong>  : <a href="https://ebula.neocities.org" style="color:#fff;">https://ebula.neocities.org</a><br>
   <strong>GitHub</strong>   : <a href="https://github.com/EldrexDelosReyesBula" style="color:#fff;">@EldrexDelosReyesBula</a><br>
   <strong>NPM</strong>      : <a href="https://www.npmjs.com/~eldrex" style="color:#fff;">@eldrex</a><br>
   <strong>LinkedIn</strong> : <a href="https://linkedin.com/in/eldrexbula" style="color:#fff;">@eldrexbula</a><br>
