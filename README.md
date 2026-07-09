@@ -10,12 +10,7 @@
     Passionate about technology, product design, developer experience, and continuous learning.
   </p>
   
-  <p align="center">
-    <a href="https://ebula.neocities.org"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
-    <a href="https://medium.com/@eldrexdelosreyesbula"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://github.com/ebula-edu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/eldrexbula"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </p>
+  <br>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&style=for-the-badge&color=000000&label=Visitors" />
@@ -25,9 +20,8 @@
   
   <br>
   <hr>
-  
-  <!-- ABOUT -->
-  <h2>🙋 About Me</h2>
+
+  <h2 align="left">About Me</h2>
   
   <table align="center">
     <tr><td><strong>Name</strong></td><td>Eldrex D. Bula</td></tr>
@@ -41,56 +35,11 @@
   <br>
   <hr>
   
-  <!-- EXPLORING -->
-  <h2>🔍 Currently Exploring</h2>
-  
-  <table align="center">
-    <tr><td>Web Architecture</td><td>Monorepos, Serverless, Edge Computing</td></tr>
-    <tr><td>Frontend Engineering</td><td>Advanced React Patterns</td></tr>
-    <tr><td>Design Systems</td><td>Tokens, Accessibility, Component Systems</td></tr>
-    <tr><td>Performance</td><td>Core Web Vitals, Optimization</td></tr>
-    <tr><td>AI Integration</td><td>LLM Applications and Automation</td></tr>
-    <tr><td>Developer Experience</td><td>Framework and Tool Development</td></tr>
-  </table>
-  
-  <br>
-  <hr>
-  
-  <!-- GITHUB ACTIVITY -->
-  <h2>📊 GitHub Activity</h2>
-  
   <img src="https://ghchart.rshah.org/000000/EldrexDelosReyesBula" width="100%" alt="GitHub Contribution Chart" />
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EldrexDelosReyesBula&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
-  </p>
-  
   <br>
   <hr>
-  
-  <!-- PHILOSOPHY -->
-  <h2>💭 Philosophy</h2>
-  
-  <blockquote>
-    <p>Change is our only goal, and that's why we're here to create a new story and become part of history.</p>
-  </blockquote>
-  
-  <br>
-  <hr>
-  
-  <!-- SUPPORT -->
-  <h2>☕ Support My Work</h2>
-  
-  <p align="center">
-    <a href="https://ko-fi.com/landecsorg"><img src="https://img.shields.io/badge/Support-Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-    <a href="https://www.paypal.com/paypalme/eldrexbula"><img src="https://img.shields.io/badge/PayPal-Support-000000?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-  </p>
-  
-  <br>
-  <hr>
-  
-  <!-- CONTACT -->
-  <h2>📫 Contact</h2>
+
+  <h2 align="left">Contact</h2>
   
   <p align="left">
     <strong>Email</strong>    : eldrexdelosreyesbula@gmail.com<br>
@@ -98,13 +47,14 @@
     <strong>GitHub</strong>   : <a href="https://github.com/EldrexDelosReyesBula">@EldrexDelosReyesBula</a><br>
     <strong>NPM</strong>      : <a href="https://www.npmjs.com/~eldrex">@eldrex</a><br>
     <strong>LinkedIn</strong> : <a href="https://linkedin.com/in/eldrexbula">@eldrexbula</a><br>
-    <strong>Medium</strong>   : <a href="https://medium.com/@eldrexdelosreyesbula">Eldrex Delos Reyes Bula</a>
+    <strong>Medium</strong>   : <a href="https://medium.com/@eldrexdelosreyesbula">Eldrex Delos Reyes Bula</a><br>
+    <strong>Support via Ko-Fi</strong>   : <a href="https://ko-fi.com/landecsorg">Eldrex Delos Reyes Bula</a><br>
+    <strong>Support via PayPal</strong>   : <a href="https://www.paypal.com/paypalme/eldrexbula">Eldrex Delos Reyes Bula</a>
   </p>
   
   <br>
   <hr>
   
-<!-- FOOTER -->
 <table align="center">
   <tr>
     <td>
