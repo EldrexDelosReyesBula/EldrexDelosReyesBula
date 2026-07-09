@@ -1,119 +1,120 @@
-<div align="left" style="background:#000000; color:#ffffff; padding: 30px; font-family: monospace;">
-
-<img width="2050" height="1155" alt="eldrex-prof" src="https://github.com/user-attachments/assets/68c96e36-62b5-4e8b-a2c4-64d71c0853e1" />
-
-<h1 align="center" style="color:#ffffff;">Eldrex D. Bula</h1>
-<p align="center" style="color:#cccccc;"><strong>Information Systems Student • Full-Stack Developer • Vice President @ ICS</strong></p>
-
-<p align="center" style="color:#aaaaaa;">
-  Building software, frameworks, developer tools, and digital products that solve real‑world problems.<br>
-  Passionate about technology, product design, developer experience, and continuous learning.
-</p>
-
-<p align="center">
-  <a href="https://ebula.neocities.org"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="https://medium.com/@eldrexdelosreyesbula"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://github.com/ebula-edu"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&style=for-the-badge&color=000000&labelColor=000000&label=Visitors" />
-  <img src="https://img.shields.io/github/followers/EldrexDelosReyesBula?style=for-the-badge&color=000000&labelColor=000000" />
-  <img src="https://img.shields.io/github/stars/EldrexDelosReyesBula?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=000000&labelColor=000000" />
-</p>
-
-<br>
-<hr style="border: 1px solid #333;">
-
-<!-- ABOUT -->
-<h2 style="color:#ffffff;">About Me</h2>
-
-**Name         :** Eldrex D. Bula <br>
-**Role         :** Student Developer <br>
-**Education    :** Associate in Information Systems <br>
-**Organization :** Vice President @ ICS Organization <br>
-**Location     :** Caloocan City, Philippines <br>
-**Interests    :** Software Engineering • Product Development • UI/UX • Developer Tools • Open Source
-
-<br>
-<hr style="border: 1px solid #333;">
-
-<!-- EXPLORING -->
-<h2 style="color:#ffffff;">Currently Exploring</h2>
-
-<table align="center" style="background:#111; border:1px solid #333; color:#fff; width:80%; border-collapse:collapse;">
-  <tr><td style="padding:8px; border:1px solid #333;">Web Architecture</td><td style="padding:8px; border:1px solid #333;">Monorepos, Serverless, Edge Computing</td></tr>
-  <tr><td style="padding:8px; border:1px solid #333;">Frontend Engineering</td><td style="padding:8px; border:1px solid #333;">Advanced React Patterns</td></tr>
-  <tr><td style="padding:8px; border:1px solid #333;">Design Systems</td><td style="padding:8px; border:1px solid #333;">Tokens, Accessibility, Component Systems</td></tr>
-  <tr><td style="padding:8px; border:1px solid #333;">Performance</td><td style="padding:8px; border:1px solid #333;">Core Web Vitals, Optimization</td></tr>
-  <tr><td style="padding:8px; border:1px solid #333;">AI Integration</td><td style="padding:8px; border:1px solid #333;">LLM Applications and Automation</td></tr>
-  <tr><td style="padding:8px; border:1px solid #333;">Developer Experience</td><td style="padding:8px; border:1px solid #333;">Framework and Tool Development</td></tr>
-</table>
-
-<br>
-<hr style="border: 1px solid #333;">
-
-<!-- GITHUB ACTIVITY -->
-<h2 style="color:#ffffff;">GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/000000/EldrexDelosReyesBula" width="100%" style="filter: grayscale(100%);" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EldrexDelosReyesBula&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EldrexDelosReyesBula&show_icons=true&hide_border=true&theme=transparent&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-</p>
-
-<br>
-<hr style="border: 1px solid #333;">
-
-<!-- PHILOSOPHY -->
-<h2 style="color:#ffffff;">Philosophy</h2>
-<blockquote style="background:#111; border-left: 4px solid #fff; padding:15px; color:#aaa; width:80%; margin:auto;">
-  <p>Change is our only goal, and that's why we're here to create a new story and become part of history.</p>
-</blockquote>
-
-<br>
-<hr style="border: 1px solid #333;">
-
-<!-- SUPPORT -->
-<h2 style="color:#ffffff;">Support My Work</h2>
-<p align="center">
-  <a href="https://ko-fi.com/landecsorg"><img src="https://img.shields.io/badge/Support-Ko--fi-black?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-  <a href="https://www.paypal.com/paypalme/eldrexbula"><img src="https://img.shields.io/badge/PayPal-Support-black?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-</p>
-
-<br>
-<hr style="border: 1px solid #333;">
-
-<!-- CONTACT -->
-<h2 style="color:#ffffff;">Contact</h2>
-<p align="left" style="color:#ccc;">
-  <strong>Email</strong>    : eldrexdelosreyesbula@gmail.com<br>
-  <strong>Website</strong>  : <a href="https://ebula.neocities.org" style="color:#fff;">https://ebula.neocities.org</a><br>
-  <strong>GitHub</strong>   : <a href="https://github.com/EldrexDelosReyesBula" style="color:#fff;">@EldrexDelosReyesBula</a><br>
-  <strong>NPM</strong>      : <a href="https://www.npmjs.com/~eldrex" style="color:#fff;">@eldrex</a><br>
-  <strong>LinkedIn</strong> : <a href="https://linkedin.com/in/eldrexbula" style="color:#fff;">@eldrexbula</a><br>
-  <strong>Medium</strong>   : <a href="https://medium.com/@eldrexdelosreyesbula" style="color:#fff;">Eldrex Delos Reyes Bula</a>
-</p>
-
-<br>
-<hr style="border: 1px solid #333;">
-
+<div align="center">
+  <img width="200" height="200" style="border-radius:50%;" alt="371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" src="https://eldrex.landecs.org/eldrex_gallery/ics-organization/eldrex-vp-ics.jpg" />
+  
+  <h1 align="center">Eldrex D. Bula</h1>
+  
+  <p align="center"><strong>Information Systems Student • Student Developer • Vice President @ ICS</strong></p>
+  
+  <p align="center">
+    Building software, frameworks, developer tools, and digital products that solve real‑world problems.<br>
+    Passionate about technology, product design, developer experience, and continuous learning.
+  </p>
+  
+  <p align="center">
+    <a href="https://ebula.neocities.org"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
+    <a href="https://medium.com/@eldrexdelosreyesbula"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://github.com/ebula-edu"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/eldrexbula"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </p>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=EldrexDelosReyesBula&style=for-the-badge&color=000000&label=Visitors" />
+    <img src="https://img.shields.io/github/followers/EldrexDelosReyesBula?style=for-the-badge&color=000000" />
+    <img src="https://img.shields.io/github/stars/EldrexDelosReyesBula?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=000000" />
+  </p>
+  
+  <br>
+  <hr>
+  
+  <!-- ABOUT -->
+  <h2>🙋 About Me</h2>
+  
+  <table align="center">
+    <tr><td><strong>Name</strong></td><td>Eldrex D. Bula</td></tr>
+    <tr><td><strong>Role</strong></td><td>Student Developer</td></tr>
+    <tr><td><strong>Education</strong></td><td>Associate in Information Systems</td></tr>
+    <tr><td><strong>Organization</strong></td><td>Vice President @ ICS Organization</td></tr>
+    <tr><td><strong>Location</strong></td><td>Caloocan City, Philippines</td></tr>
+    <tr><td><strong>Interests</strong></td><td>Software Engineering • Product Development • UI/UX • Developer Tools • Open Source</td></tr>
+  </table>
+  
+  <br>
+  <hr>
+  
+  <!-- EXPLORING -->
+  <h2>🔍 Currently Exploring</h2>
+  
+  <table align="center">
+    <tr><td>Web Architecture</td><td>Monorepos, Serverless, Edge Computing</td></tr>
+    <tr><td>Frontend Engineering</td><td>Advanced React Patterns</td></tr>
+    <tr><td>Design Systems</td><td>Tokens, Accessibility, Component Systems</td></tr>
+    <tr><td>Performance</td><td>Core Web Vitals, Optimization</td></tr>
+    <tr><td>AI Integration</td><td>LLM Applications and Automation</td></tr>
+    <tr><td>Developer Experience</td><td>Framework and Tool Development</td></tr>
+  </table>
+  
+  <br>
+  <hr>
+  
+  <!-- GITHUB ACTIVITY -->
+  <h2>📊 GitHub Activity</h2>
+  
+  <img src="https://ghchart.rshah.org/000000/EldrexDelosReyesBula" width="100%" alt="GitHub Contribution Chart" />
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EldrexDelosReyesBula&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
+  </p>
+  
+  <br>
+  <hr>
+  
+  <!-- PHILOSOPHY -->
+  <h2>💭 Philosophy</h2>
+  
+  <blockquote>
+    <p>Change is our only goal, and that's why we're here to create a new story and become part of history.</p>
+  </blockquote>
+  
+  <br>
+  <hr>
+  
+  <!-- SUPPORT -->
+  <h2>☕ Support My Work</h2>
+  
+  <p align="center">
+    <a href="https://ko-fi.com/landecsorg"><img src="https://img.shields.io/badge/Support-Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+    <a href="https://www.paypal.com/paypalme/eldrexbula"><img src="https://img.shields.io/badge/PayPal-Support-000000?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+  </p>
+  
+  <br>
+  <hr>
+  
+  <!-- CONTACT -->
+  <h2>📫 Contact</h2>
+  
+  <p align="left">
+    <strong>Email</strong>    : eldrexdelosreyesbula@gmail.com<br>
+    <strong>Website</strong>  : <a href="https://ebula.neocities.org">https://ebula.neocities.org</a><br>
+    <strong>GitHub</strong>   : <a href="https://github.com/EldrexDelosReyesBula">@EldrexDelosReyesBula</a><br>
+    <strong>NPM</strong>      : <a href="https://www.npmjs.com/~eldrex">@eldrex</a><br>
+    <strong>LinkedIn</strong> : <a href="https://linkedin.com/in/eldrexbula">@eldrexbula</a><br>
+    <strong>Medium</strong>   : <a href="https://medium.com/@eldrexdelosreyesbula">Eldrex Delos Reyes Bula</a>
+  </p>
+  
+  <br>
+  <hr>
+  
 <!-- FOOTER -->
-<p align="center">
-  <a href="https://eldrex.landecs.org">
-    <img src="https://eldrex.landecs.org/logo/eldrex_bula_final_logo.svg" width="70" style="filter: invert(100%);" />
-  </a>
-</p>
-
-<p align="center" style="color:#666;">
-  <sub>I don't need what you have to do what you do.</sub>
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://eldrex.landecs.org">
+        <img src="https://eldrex.landecs.org/logo/eldrex-favicon.png" width="70" alt="Eldrex Bula Logo" />
+      </a>
+    </td>
+    <td>
+      <sub>I don't need what you have to do what you do.</sub>
+    </td>
+  </tr>
+</table>
 </div>
