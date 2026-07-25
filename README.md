@@ -38,20 +38,22 @@
   <img src="https://ghchart.rshah.org/000000/EldrexDelosReyesBula" width="100%" alt="GitHub Contribution Chart" />
   <br>
   <hr>
-
-  <h2 align="left">Contact</h2>
   
-  <p align="left">
-    <strong>Email</strong>    : eldrexdelosreyesbula@gmail.com<br>
-    <strong>Website</strong>  : <a href="https://ebula.neocities.org">https://ebula.neocities.org</a><br>
-    <strong>GitHub</strong>   : <a href="https://github.com/EldrexDelosReyesBula">@EldrexDelosReyesBula</a><br>
-    <strong>NPM</strong>      : <a href="https://www.npmjs.com/~eldrex">@eldrex</a><br>
-    <strong>LinkedIn</strong> : <a href="https://linkedin.com/in/eldrexbula">@eldrexbula</a><br>
-    <strong>Medium</strong>   : <a href="https://medium.com/@eldrexdelosreyesbula">Eldrex Delos Reyes Bula</a><br>
-    <strong>Support via Ko-Fi</strong>   : <a href="https://ko-fi.com/landecsorg">Eldrex Delos Reyes Bula</a><br>
-    <strong>Support via PayPal</strong>   : <a href="https://www.paypal.com/paypalme/eldrexbula">Eldrex Delos Reyes Bula</a>
-    <strong>Atabook</strong>   : <a href="https://eldrex.atabook.org/">Leave a message</a>
-  </p>
+  <h2 align="left">Contact</h2>
+
+<p align="left">
+  <strong>Email</strong> : eldrexdelosreyesbula@gmail.com<br>
+  <strong>Website</strong> : <a href="https://ebula.neocities.org">https://ebula.neocities.org</a><br>
+  <strong>GitHub (Personal)</strong> : <a href="https://github.com/EldrexDelosReyesBula">@EldrexDelosReyesBula</a><br>
+  <strong>GitHub (Beam Framework)</strong> : <a href="https://github.com/beam-framework">@beam-framework</a><br>
+  <strong>GitHub (Education)</strong> : <a href="https://github.com/ebula-edu">@ebula-edu</a><br>
+  <strong>NPM</strong> : <a href="https://www.npmjs.com/~eldrex">@eldrex</a><br>
+  <strong>LinkedIn</strong> : <a href="https://linkedin.com/in/eldrexbula">@eldrexbula</a><br>
+  <strong>Medium</strong> : <a href="https://medium.com/@eldrexdelosreyesbula">Eldrex Delos Reyes Bula</a><br>
+  <strong>Support via Ko-Fi</strong> : <a href="https://ko-fi.com/landecsorg">Eldrex Delos Reyes Bula</a><br>
+  <strong>Support via PayPal</strong> : <a href="https://www.paypal.com/paypalme/eldrexbula">Eldrex Delos Reyes Bula</a><br>
+  <strong>Atabook</strong> : <a href="https://eldrex.atabook.org/">Leave a message</a>
+</p>
   
   <br>
   <hr>
