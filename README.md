@@ -45,7 +45,6 @@
   <strong>Email</strong> : eldrexdelosreyesbula@gmail.com<br>
   <strong>Website</strong> : <a href="https://ebula.neocities.org">https://ebula.neocities.org</a><br>
   <strong>GitHub (Personal)</strong> : <a href="https://github.com/EldrexDelosReyesBula">@EldrexDelosReyesBula</a><br>
-  <strong>GitHub (Beam Framework)</strong> : <a href="https://github.com/beam-framework">@beam-framework</a><br>
   <strong>GitHub (Education)</strong> : <a href="https://github.com/ebula-edu">@ebula-edu</a><br>
   <strong>NPM</strong> : <a href="https://www.npmjs.com/~eldrex">@eldrex</a><br>
   <strong>LinkedIn</strong> : <a href="https://linkedin.com/in/eldrexbula">@eldrexbula</a><br>
