@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" height="200" style="border-radius:50%;" alt="371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" src="https://eldrex.landecs.org/eldrex_gallery/ics-organization/eldrex-vp-ics.jpg" />
+  <img width="200" height="200" style="border-radius:50%;" alt="371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" src="https://eldrex.neocities.org/eldrex_gallery/ics-organization/eldrex-vp-ics.jpg" />
   
   <h1 align="center">Eldrex D. Bula</h1>
   
@@ -61,7 +61,7 @@
   <tr>
     <td>
       <a href="https://eldrex.landecs.org">
-        <img src="https://eldrex.landecs.org/logo/eldrex-favicon.png" width="70" alt="Eldrex Bula Logo" />
+        <img src="https://eldrex.neocities.org/logo/eldrex-favicon.png" width="70" alt="Eldrex Bula Logo" />
       </a>
     </td>
     <td>
